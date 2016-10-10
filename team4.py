@@ -7,7 +7,7 @@
 ####
 
 team_name = 'Team4' # Only 10 chars displayed.
-strategy_name = 'proccess of elimination'
+strategy_name = 'proccess of eliminationn'
 strategy_description = 'helps get rid of wrong information'
     
 def move(my_history, their_history, my_score, their_score):
